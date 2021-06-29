@@ -1,0 +1,16 @@
+name: "Haylee D. Website"
+output_dir: "."
+navbar:
+  title: "Haylee D. Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      href: geog13.html
+  right:
+    - icon: fa-github
+      href: https://github.com/hayleed25/hayleed25.github.io.git
+output:
+  html_document:
+    theme: cosmo
