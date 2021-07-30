@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-In the summer of 2021 I took a GIS based course based in R through UC Santa Barbara. I wrote some code, and did some cool data science. Here is a collection of links! 
+In the summer of 2021 I took a GIS based course in R Studio through UC Santa Barbara. I wrote some code and did some cool data science. Here is a collection of links! 
 
 ## [Lab 1](https://hayleed25.github.io/index.html)
 
@@ -10,11 +10,24 @@ In the summer of 2021 I took a GIS based course based in R through UC Santa Barb
 - I learned how to use R and how to knit into a html
 - I know how to push files from R to Github
 
-## [Lab 2](https://hayleed25.github.io/geog-13-lab-02.html) 
+## [Lab 2](https://hayleed25.github.io/lab-02.html) 
 
-## [Lab 3](https://hayleed25.github.io/geog-13-lab-03.html)
+- For this assignment, I used packages of tidyverse 
+- Each package was used to analyze specific COVID-19 data
+- The lab was intended to practice data wrangling and visualization skills
+![lab 2]((~/Github/Geog-13-Labs/LAB01/rugby.img/lab1)
 
-## [Lab 4]
+## [Lab 3](https://hayleed25.github.io/lab-03.html)
+
+- This lab was my favorite!
+- I used spatial features (sf) and objects to create distances and projects
+- I especially enjoyed working with ggplot to create maps, and using fun colors for filtering in data 
+![lab 3](![lab 1]((~/Github/Geog-13-Labs/LAB01/rugby.img/lab2)
+
+## [Lab 4](https://hayleed25.github.io/lab-04.html)
+- For me, this lab was the most challenging, yet most pleasing
+- This lab required reading in Nation Dams to answer questions of geometry simplification, centroid generation, and tessellations
+- It was the most pleasing because of the voroni, triangulation, square and hexagonal graphs of the United States ![lab 4](![lab 1]((~/Github/Geog-13-Labs/LAB01/rugby.img/lab3)
 
 ## [Geography 183](https://haylee65.wixsite.com/website/blog)
-For another class, I had to publish all of my work to a website. It is a collection of a series of labs, ranging from QGIS to Google Earth labs. Here, take a look.
+- For another class, I had to publish all of my work to a website. It is a collection of a series of labs, ranging from QGIS to Google Earth labs. Here, take a look.
