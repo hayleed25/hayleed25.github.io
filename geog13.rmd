@@ -24,7 +24,7 @@ In the summer of 2021 I took a GIS based course in R Studio through UC Santa Bar
 - I especially enjoyed working with ggplot to create maps, and using fun colors for filtering in data 
 ![lab 3](~/Github/Geog-13-Labs/LAB01/rugby.img/lab2.png)
 
-## [Lab 4](https://hayleed25.github.io/lab-04.html)
+## [Lab 4](https://hayleed25.github.io/lab04.html)
 - For me, this lab was the most challenging, yet most pleasing
 - This lab required reading in Nation Dams to answer questions of geometry simplification, centroid generation, and tessellations
 - It was the most pleasing because of the voroni, triangulation, square and hexagonal graphs of the United States ![lab 4](~/Github/Geog-13-Labs/LAB01/rugby.img/lab3.png)
