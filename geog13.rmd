@@ -31,3 +31,7 @@ In the summer of 2021 I took a GIS based course in R Studio through UC Santa Bar
 
 ## [Geography 183](https://haylee65.wixsite.com/website/blog)
 - For another class, I had to publish all of my work to a website. It is a collection of a series of labs, ranging from QGIS to Google Earth labs. Here, take a look.
+
+## [Geography 176a](https://editor.wix.com/website/builder?categoryName=Portfolio&structureId=a28c5e5ea1945e5fa4ca1728&industryId=3d95f5101a3e882ac54beba2&editorSessionId=f6443d8d-60e8-4013-8389-2ed7e724fb68&referral=split+page&vertical=portfolio-cv&requestedApps=Instagram%2CBlog#!/builder/story/8aa23c50-eae0-40e1-bb99-bf24cf3b4f37:ab838ffb-e30a-4ebe-b809-0a518c8a590c/preview)
+- Current Fall 2021 class using ArcGIS Pro and other related GIS applications. 
+![lab 1](~/Github/Geog-13-Labs/LAB01/rugby.img/LAB1_COVID_HEAT_DENSITY.jpg)
