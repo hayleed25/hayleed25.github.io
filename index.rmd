@@ -4,8 +4,8 @@ title: "About Me"
   
 <center>
 # Hi, I'm Haylee Damron. 
+
 </center>
-  
 I am a current student at UC Santa Barbara studying Geography with an emphasis on GIS. This is my first data science class that I have taken, and I have to say it has been a fun challenge. In the future, I hope to attend graduate school and study fire patterns and how firefighters can attack fires quickly. I also hope to study city planning and first responders' routes. By using R Studio, I can map on a global and city level scale, reading in data and filtering to what is needed. This can greatly help during wildfire season by quickly generating maps with online data  sources and links, as well as the fastest routes for firefighters to take. 
 
 ## Linkedin- https://www.linkedin.com/in/hayleed25
